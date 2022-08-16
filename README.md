@@ -19,3 +19,4 @@ The style guided decoder
 ----
 ![image](https://user-images.githubusercontent.com/24407682/184835799-d7ab00b1-178f-4fce-95a7-7341252095fa.png)
 
+As shown in above figure, The style guided mechanisms are implemented by using style-guided normalization layer and style guided attention layer.
